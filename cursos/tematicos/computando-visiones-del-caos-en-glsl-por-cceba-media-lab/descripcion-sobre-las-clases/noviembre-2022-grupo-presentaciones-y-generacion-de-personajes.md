@@ -8,7 +8,7 @@ El recurso de introducir contenido teórico mediante historias suele ser un recu
 
 Para ello hubo una invitación a elegir su rol, en una nave, la cual iba a ser liderada por quien dictaba las clases.
 
-![El formulario se veia así y contaba con una serie de preguntas.](<../../../.gitbook/assets/presentaciones (1) (1).png>)
+![El formulario se veia así y contaba con una serie de preguntas.](<../../../../.gitbook/assets/presentaciones (1) (1).png>)
 
 ## Roles :
 
@@ -60,4 +60,4 @@ Para ello hubo una invitación a elegir su rol, en una nave, la cual iba a ser l
 
 ## Imágenes aportadas por personajes:
 
-![](<../../../.gitbook/assets/The Colours of Infinity - Javier Velazquez Traut.jpg>)![](<../../../.gitbook/assets/mi-animal-espiritual - Fernando Bava.jpg>)![](<../../../.gitbook/assets/mont-photo-low - ilithya.jpg>)![](<../../../.gitbook/assets/Captura de pantalla 2021-11-12 a la(s) 19.16.11 - Charlotte Bovy.png>)
+![](<../../../../.gitbook/assets/The Colours of Infinity - Javier Velazquez Traut.jpg>)![](<../../../../.gitbook/assets/mi-animal-espiritual - Fernando Bava.jpg>)![](<../../../../.gitbook/assets/mont-photo-low - ilithya.jpg>)![](<../../../../.gitbook/assets/Captura de pantalla 2021-11-12 a la(s) 19.16.11 - Charlotte Bovy.png>)
