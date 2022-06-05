@@ -8,7 +8,7 @@ description: Centro Cultural Recoleta en el marco del festival SPAM Arts
 
 {% embed url="https://docs.google.com/presentation/d/e/2PACX-1vSil5wYNfmUNs36k4nnn9y1LiuhhuLMJxabxKUoZwpTzlGyTnEWefXrfrfMbyAwxVARUQPzdk_5mdO6/pub?delayms=3000&loop=false&start=false" %}
 
-## Herramienta desarollawada para el taller:
+## Herramienta desarollada para el taller:
 
 {% embed url="https://spamarts-demo.solsarratea.world/" %}
 
