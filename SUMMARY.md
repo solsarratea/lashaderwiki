@@ -18,8 +18,18 @@
     * [Sobre nosotres](cursos/introductorios/live-coding-shaders-por-nodo-centro-cultral-digital/sobre-nosotres.md)
 * [TEMÁTICOS](cursos/tematicos/README.md)
   * [Computando visiones del CAOS en GLSL por CCEBA Media Lab](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/README.md)
-    * [Descripción sobre las clases](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/README.md)
-      * [Noviembre 2022: Grupo, presentaciones y generación de personajes](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/noviembre-2022-grupo-presentaciones-y-generacion-de-personajes.md)
+    * [Clases](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/README.md)
+      * [Clase 0](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/clase-0.md)
+      * [Clase 1](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/clase-1.md)
+      * [Clase 2](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/clase-2.md)
+      * [Clase 3](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/clase-3.md)
+    * [Material de consulta y referencia](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/material-de-consulta-y-referencia.md)
+    * [Notas sobre referencias bibliográficas](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/notas-sobre-referencias-bibliograficas/README.md)
+      * [Metamagical Themas: Questing for the Essence of Mind and Pattern by Douglas R. Hofstadter](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/notas-sobre-referencias-bibliograficas/metamagical-themas-questing-for-the-essence-of-mind-and-pattern-by-douglas-r.-hofstadter.md)
+      * [Caos by James Gleick](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/notas-sobre-referencias-bibliograficas/caos-by-james-gleick.md)
+      * [The Fractal Geometry of Nature by Benoit Mandelbrot](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/notas-sobre-referencias-bibliograficas/the-fractal-geometry-of-nature-by-benoit-mandelbrot.md)
+    * [Adicional: Noviembre 2022 -  Grupo, presentaciones y generación de personajes](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/noviembre-2022-grupo-presentaciones-y-generacion-de-personajes.md)
+    * [Quienes somos](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/quienes-somos.md)
 
 ## CHARLAS
 
@@ -42,3 +52,10 @@
 * [🥷 Entrenamiento funcional](transcurso/entrenamiento-funcional.md)
 * [🕯 TEMPLO DE SHADERS](transcurso/templo-de-shaders.md)
 * [⚡ PixelSpirit](transcurso/pixelspirit.md)
+
+***
+
+* [Clase 1](clase-1.md)
+* [Clases](clases.md)
+* [Clase 3](clase-3.md)
+* [Clase 2](clase-2.md)
