@@ -21,10 +21,10 @@
 
 **CONTENIDO PRÁCTICO**
 
-{% embed url="https://caos.solquemal.com/rumbo/mandelbrot/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/mandelbrot/editor/" %}
 
 {% embed url="https://colab.research.google.com/drive/1_XtB4sfpgZGomogUef9N5IeV47Hqyezs?usp=sharing" %}
 
-{% embed url="https://caos.solquemal.com/rumbo/logistic/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/logistic/editor/" %}
 
-{% embed url="https://caos.solquemal.com/rumbo/pendulos/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/pendulos/editor/" %}

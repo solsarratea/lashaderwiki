@@ -18,6 +18,6 @@
 
 **CONTENIDO PRÁCTICO**
 
-{% embed url="https://caos.solquemal.com/rumbo/orbits/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/orbits/editor/" %}
 
-{% embed url="https://caos.solquemal.com/rumbo/atractors" %}
+{% embed url="https://caos.solsarratea.world/rumbo/atractors/editor/" %}

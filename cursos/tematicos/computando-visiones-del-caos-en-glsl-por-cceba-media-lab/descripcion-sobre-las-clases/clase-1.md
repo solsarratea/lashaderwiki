@@ -24,13 +24,13 @@
 
 #### PRÁCTICA
 
-{% embed url="https://caos.solquemal.com/rumbo/koch/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/koch/editor/" %}
 
-{% embed url="https://caos.solquemal.com/rumbo/julia/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/julia/editor/" %}
 
-{% embed url="https://caos.solquemal.com/rumbo/mandelbrot/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/mandelbrot/editor/" %}
 
-{% embed url="https://caos.solquemal.com/rumbo/newton/editor" %}
+{% embed url="https://caos.solsarratea.world/rumbo/newton/editor/" %}
 
 #### ARTE Y FRACTALES
 

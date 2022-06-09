@@ -18,13 +18,15 @@
 
 #### PRÁCTICA
 
-{% embed url="https://caos.solquemal.com/rumbo/fund/editor" %}
-IR A LA ACTIVIDAD PRÁCTICA 0
+{% embed url="https://caos.solsarratea.world/rumbo/fund/editor/" %}
+IR A LA ACTIVIDAD PRACTICA 0
 {% endembed %}
 
-{% embed url="https://caos.solquemal.com/rumbo/ifs/editor" %}
-IR A LA ACTIVIDAD PRÁCTICA 1
+{% embed url="https://caos.solsarratea.world/rumbo/ifs/editor/" %}
+IR A LA ACTIVIDAD PRACTICA 1
 {% endembed %}
+
+
 
 #### FEEDBACK
 
