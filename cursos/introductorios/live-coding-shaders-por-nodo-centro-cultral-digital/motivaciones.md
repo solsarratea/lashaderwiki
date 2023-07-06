@@ -16,7 +16,7 @@ description: >-
 
 La diferencia entre las palabras, en el lenguaje natural, y el código puede pensarse como la diferencia entre contar y hacer. En estas clases vamos a experimentar a través de la creación de imágenes: fundamentos sobre programación; cómo comunicarnos con la GPU y aplicar conceptos matemáticos para generar arte.
 
-Entender las tecnologias de bajo nivel nos permite habitar nuevos espacios.
+Entende r las tecnologias de bajo nivel nos permite habitar nuevos espacios.
 
 ## Computadora, tecnología y arte en la historia: <a href="#computadora-tecnologia-y-arte-en-la-historia" id="computadora-tecnologia-y-arte-en-la-historia"></a>
 

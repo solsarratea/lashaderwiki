@@ -36,6 +36,21 @@
 * [TALLER: INTRODUCCIÓN AL VIDEOARTE CON CÓDIGO](charlas/taller-introduccion-al-videoarte-con-codigo.md)
 * [LIVECODING & CHILL](charlas/livecoding-and-chill.md)
 
+## workshops
+
+* [💻 Live coding por TOPLAP BCN](workshops/live-coding-por-toplap-bcn/README.md)
+  * [Organización](workshops/live-coding-por-toplap-bcn/organizacion/README.md)
+    * [Código de conducta](workshops/live-coding-por-toplap-bcn/organizacion/codigo-de-conducta.md)
+    * [Herramientas](workshops/live-coding-por-toplap-bcn/organizacion/herramientas.md)
+  * [Bloque 0](workshops/live-coding-por-toplap-bcn/bloque-0.md)
+  * [Bloque 1](workshops/live-coding-por-toplap-bcn/bloque-1.md)
+  * [Bloque 2](workshops/live-coding-por-toplap-bcn/bloque-2.md)
+  * [Cheatsheets](workshops/live-coding-por-toplap-bcn/cheatsheets/README.md)
+    * [Transformaciones del espacio](workshops/live-coding-por-toplap-bcn/cheatsheets/transformaciones-del-espacio.md)
+    * [Funciones](workshops/live-coding-por-toplap-bcn/cheatsheets/funciones.md)
+    * [Figuras](workshops/live-coding-por-toplap-bcn/cheatsheets/figuras.md)
+    * [Color](workshops/live-coding-por-toplap-bcn/cheatsheets/color.md)
+
 ## RECURSOS
 
 * [📚 Bibliografía](recursos/bibliografia/README.md)

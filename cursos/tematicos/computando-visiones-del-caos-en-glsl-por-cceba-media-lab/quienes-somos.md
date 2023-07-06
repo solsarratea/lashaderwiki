@@ -19,6 +19,14 @@ Recientemente:
 
 A continuación mis cartas de presentación:
 
-![ Llibros que cambiaron mi relación con las computadoras acompañados de imágenes que fueron generadas a partir de simples sistemas de feedback con el fin de entender luz y simular metales.](../../../.gitbook/assets/carta.png) ![Antigua slide de presentación](<../../../.gitbook/assets/old (1).png>)
+<div align="center">
+
+<img src="../../../.gitbook/assets/carta.png" alt=" Llibros que cambiaron mi relación con las computadoras acompañados de imágenes que fueron generadas a partir de simples sistemas de feedback con el fin de entender luz y simular metales.">
+
+ 
+
+<img src="../../../.gitbook/assets/old (1).png" alt="Antigua slide de presentación">
+
+</div>
 
 &#x20;
