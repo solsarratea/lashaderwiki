@@ -29,7 +29,7 @@
     * Sistemas de representación del espacio:\
 
 
-    <table><thead><tr><th width="132">Nombre</th><th width="92">Output</th><th>Rango</th><th>Origen de coordenas</th></tr></thead><tbody><tr><td>uvN</td><td>(x,y)</td><td>[0,1]x[0,1]</td><td>esquina inferior izquierda</td></tr><tr><td>uv</td><td>(x,y)</td><td>[-1,1]x[-1,1]</td><td>centro de la pantalla</td></tr></tbody></table>
+    <table><thead><tr><th width="112">Nombre</th><th width="92">Output</th><th>Rango</th><th>Origen de coordenas</th></tr></thead><tbody><tr><td>uvN</td><td>(x,y)</td><td>[0,1]x[0,1]</td><td>esquina inferior izquierda</td></tr><tr><td>uv</td><td>(x,y)</td><td>[-1,1]x[-1,1]</td><td>centro de la pantalla</td></tr></tbody></table>
 *   Introducimos las funciones:
 
     &#x20;**cos(), step(), smoothstep(), length(), y mix()**
@@ -58,6 +58,18 @@ float verEjes(vec2 pos){
     ejes += 1.-step(0.009, distance(pos.x,0.));
     ejes += 1.-step(0.009, distance(pos.y,0.));
     return ejes;
+}
+```
+
+**HELPERS (checkpoint 2)**
+
+```
+vec3 tablero(vec2 pos){
+  return smoothstep(vec3(0.),vec3(0.001),sin(pos.xxx*20.)*sin(pos.yyy*20.));	
+}
+
+vec2 rotacion (vec2 pos, float cantidad){
+  return  pos * mat2(cos(cantidad),sin(cantidad),-sin(cantidad),cos(cantidad));
 }
 ```
 
