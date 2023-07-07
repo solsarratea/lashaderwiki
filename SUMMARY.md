@@ -46,10 +46,11 @@
   * [Bloque 1](workshops/live-coding-por-toplap-bcn/bloque-1.md)
   * [Bloque 2](workshops/live-coding-por-toplap-bcn/bloque-2.md)
   * [Cheatsheets](workshops/live-coding-por-toplap-bcn/cheatsheets/README.md)
+    * [Funciones de GLSL](workshops/live-coding-por-toplap-bcn/cheatsheets/funciones-de-glsl.md)
     * [Transformaciones del espacio](workshops/live-coding-por-toplap-bcn/cheatsheets/transformaciones-del-espacio.md)
-    * [Funciones](workshops/live-coding-por-toplap-bcn/cheatsheets/funciones.md)
     * [Figuras](workshops/live-coding-por-toplap-bcn/cheatsheets/figuras.md)
     * [Color](workshops/live-coding-por-toplap-bcn/cheatsheets/color.md)
+    * [Otras](workshops/live-coding-por-toplap-bcn/cheatsheets/otras.md)
 
 ## RECURSOS
 

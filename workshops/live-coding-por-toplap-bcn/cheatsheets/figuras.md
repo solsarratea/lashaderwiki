@@ -1,3 +1,7 @@
+---
+description: Helpers para usar figuras
+---
+
 # Figuras
 
 Extraidas de:
