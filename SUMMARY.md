@@ -35,6 +35,12 @@
 
 * [TALLER: INTRODUCCIÓN AL VIDEOARTE CON CÓDIGO](charlas/taller-introduccion-al-videoarte-con-codigo.md)
 * [LIVECODING & CHILL](charlas/livecoding-and-chill.md)
+* [SHADER JAM](charlas/shader-jam/README.md)
+  * [Cables.gl](charlas/shader-jam/cables.gl.md)
+  * [Vedajs](charlas/shader-jam/vedajs/README.md)
+    * [Shjam](charlas/shader-jam/vedajs/shjam.md)
+    * [Demo Doodle grupal](charlas/shader-jam/vedajs/demo-doodle-grupal.md)
+  * [Kodelife](charlas/shader-jam/kodelife.md)
 
 ## workshops
 
