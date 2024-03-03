@@ -68,11 +68,11 @@
   * [Historia](recursos/bibliografia/historia.md)
 * [🫂 Comunidades](recursos/comunidades.md)
 * [📹 Streams](recursos/streams.md)
-* [✍ Editores](recursos/editores/README.md)
-  * [🕸 Frameworks](recursos/editores/frameworks.md)
+* [✍️ Editores](recursos/editores/README.md)
+  * [🕸️ Frameworks](recursos/editores/frameworks.md)
 
 ## TRANSCURSO
 
 * [🥷 Entrenamiento funcional](transcurso/entrenamiento-funcional.md)
-* [🕯 TEMPLO DE SHADERS](transcurso/templo-de-shaders.md)
+* [🕯️ TEMPLO DE SHADERS](transcurso/templo-de-shaders.md)
 * [⚡ PixelSpirit](transcurso/pixelspirit.md)

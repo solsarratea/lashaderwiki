@@ -1,4 +1,4 @@
-# ✍ Editores
+# ✍️ Editores
 
 {% embed url="http://editor.thebookofshaders.com" %}
 Editor web de GLSL
@@ -30,4 +30,20 @@ Editor web de GLSL
 
 {% embed url="https://spamarts-demo.solsarratea.world" %}
 Demo - Editor web de GLSL
+{% endembed %}
+
+{% embed url="https://www.gsn-lib.org/" %}
+Editor web con nodos
+{% endembed %}
+
+{% embed url="https://cables.gl/home" %}
+Editor web con nodos
+{% endembed %}
+
+{% embed url="https://www.shadertoy.com/" %}
+Editor web
+{% endembed %}
+
+{% embed url="https://shadered.org/" %}
+Editor web
 {% endembed %}
