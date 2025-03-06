@@ -50,8 +50,8 @@ float map(vec3 p){
 void main () {
     vec2 pos = uv(); vec3 color;
     //Escalar 
-    float fov = mouse.x/resolution.x;
-    vec3 rd = normalize(vec3(pos, mix(0.5,2., fov))); 
+    float fl = mouse.x/resolution.x;
+    vec3 rd = normalize(vec3(pos, mix(0.5,2., fl))); 
     vec3 ro = vec3(0.,0.,-3.);
     
     
@@ -83,9 +83,10 @@ void main () {
 * **Zoom in/ Zoom Ou**t: cambiando el F.O.V (valor z de la dirección del rayo)
 
 ```glsl
-float fov = 1.; // Probar: mouse.x/resolution.x
-//Menor valor, el plano de proyección está más cerca, el campo de visión es menor
-vec3 rd = normalize(vec3(pos, mix(0.5,2.,fov)); 
+float fl = 1.; // Probar: mouse.x/resolution.x
+//Mayor valor, zoom in (los rayos mas paralelos)
+//Menor valor. zoom out (los rayos estan mas "abiertos")
+vec3 rd = normalize(vec3(pos, mix(0.5,2.,fl)); 
 ```
 
 * **Rotaciones y traslaciones**: aplicamos operaciones antes de llamar la función que calcula nuestra escena

@@ -48,7 +48,7 @@ void main () {
 * Cada rayo corresponde a un píxel en la pantalla, y su dirección determina hacia dónde apunta en el espacio 3D.
 * La dirección del rayo:
   * necesitas proyectar el plano 2D (coordenas uv()) en el espacio 3D para determinar hacia dónde va cada rayo.
-  * la **componente z** determina que tan cerca/lejos esta la proyección del espacio 2D. En otras palabras, es el **fov (campo de visión)**
+  * la **componente z** determina que tan cerca/lejos esta la proyección del espacio 2D.&#x20;
   * **normalizamos** la dirección del rayo para que las direcciones sean consistentes, es decir, midan lo mismo a la hora de empezar a marchar.
 
 ## Script: BloBs!
