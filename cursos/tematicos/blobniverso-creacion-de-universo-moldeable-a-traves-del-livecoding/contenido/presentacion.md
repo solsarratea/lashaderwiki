@@ -32,7 +32,7 @@ Vamos a usar una versión local para ello conectarse a: \
 
 ## Script: sintaxis básica de un shader
 
-```
+```glsl
 void main() {
     /* Declaracion de variables
        tipo nombre = valor; */
