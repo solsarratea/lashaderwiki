@@ -18,7 +18,7 @@ LoadPixels vs shader
 GPU vs CPU
 {% endembed %}
 
-##
+
 
 ## Presentación de The\_Force
 
