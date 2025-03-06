@@ -43,7 +43,7 @@
       * [Luz](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/luz.md)
       * [El Canvas como controller](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/el-canvas-como-controller.md)
     * [Cositas](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/README.md)
-      * [Demoscene](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/demoscene.md)
+      * [Demoscenes](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/demoscenes.md)
       * [Blobs](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/blobs.md)
       * [más cositas](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/mas-cositas.md)
 

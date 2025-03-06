@@ -6,4 +6,4 @@
 
 ## Superficies&#x20;
 
-<figure><img src="../../../../.gitbook/assets/original_8d62d679c068166f9881d73adb577a16 (1).jpg" alt=""><figcaption><p>curvatura negaiva de una papita</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/original_8d62d679c068166f9881d73adb577a16 (1).jpg" alt=""><figcaption><p>curvatura negativa de una papita</p></figcaption></figure>
