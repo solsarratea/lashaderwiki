@@ -178,3 +178,8 @@ void main () {
 * **Bonus:** llamando las funciones **repeat()**, y **repeatLimit()** reproducimos el espacio(sistema de coordenadas) haciendo que nuestra **sdfCanvas** se repita infinitamente, o dentro de límites definidos. \
   Esto nos permite crear patrones repetitivos o estructuras periódicas en la escena sin necesidad de definir manualmente cada instancia.&#x20;
 
+### Extra
+
+{% embed url="https://www.desmos.com/calculator/7yqegqcwkb" %}
+Visualizacion de la funcion que usamos para acumular color
+{% endembed %}
