@@ -30,6 +30,22 @@
       * [The Fractal Geometry of Nature by Benoit Mandelbrot](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/notas-sobre-referencias-bibliograficas/the-fractal-geometry-of-nature-by-benoit-mandelbrot.md)
     * [Adicional: Noviembre 2022 -  Grupo, presentaciones y generación de personajes](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/descripcion-sobre-las-clases/noviembre-2022-grupo-presentaciones-y-generacion-de-personajes.md)
     * [Quienes somos](cursos/tematicos/computando-visiones-del-caos-en-glsl-por-cceba-media-lab/quienes-somos.md)
+  * [Blobniverso: creación de universo moldeable a través del livecoding](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/README.md)
+    * [Sobre el taller](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/sobre-el-taller/README.md)
+      * [Quienes somos](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/sobre-el-taller/quienes-somos.md)
+      * [Herramientas](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/sobre-el-taller/herramientas.md)
+      * [Código de conducta](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/sobre-el-taller/codigo-de-conducta.md)
+    * [Contenido](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/README.md)
+      * [Presentación](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/presentacion.md)
+      * [Intro a GLSL](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/intro-a-glsl.md)
+      * [Introducción a mundos 3D](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/introduccion-a-mundos-3d.md)
+      * [Cámara y Acción](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/camara-y-accion.md)
+      * [Luz](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/luz.md)
+      * [El Canvas como controller](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/el-canvas-como-controller.md)
+    * [Cositas](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/README.md)
+      * [Demoscene](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/demoscene.md)
+      * [Blobs](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/blobs.md)
+      * [más cositas](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/mas-cositas.md)
 
 ## CHARLAS
 

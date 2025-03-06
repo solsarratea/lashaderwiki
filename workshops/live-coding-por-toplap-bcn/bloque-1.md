@@ -29,7 +29,7 @@
     * Sistemas de representación del espacio:\
 
 
-    <table><thead><tr><th width="112">Nombre</th><th width="92">Output</th><th>Rango</th><th>Origen de coordenas</th></tr></thead><tbody><tr><td>uvN</td><td>(x,y)</td><td>[0,1]x[0,1]</td><td>esquina inferior izquierda</td></tr><tr><td>uv</td><td>(x,y)</td><td>[-1,1]x[-1,1]</td><td>centro de la pantalla</td></tr></tbody></table>
+    <table><thead><tr><th width="100">Nombre</th><th width="92">Output</th><th>Rango</th><th>Origen de coordenas</th></tr></thead><tbody><tr><td>uvN</td><td>(x,y)</td><td>[0,1]x[0,1]</td><td>esquina inferior izquierda</td></tr><tr><td>uv</td><td>(x,y)</td><td>[-1,1]x[-1,1]</td><td>centro de la pantalla</td></tr></tbody></table>
 *   Introducimos las funciones:
 
     &#x20;**cos(), step(), smoothstep(), length(), y mix()**
