@@ -102,7 +102,7 @@ void main() {
 
 ## Script: figuras simples
 
-```
+```glsl
 void main() {
   vec2 pos = uv(); vec3 color;
   float scale=1.;

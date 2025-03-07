@@ -28,6 +28,8 @@ Vamos a usar una versión local para ello conectarse a: \
 \- red: Myfi\
 \- pass: makelovenotwar
 
+[Descargarse el contenido de las clases offline](https://drive.google.com/file/d/1SeJtJrSNY5tiKeHzMwGd7OdiL8Dh58WK/view)
+
 <figure><img src="../../../../.gitbook/assets/Screenshot from 2025-02-23 19-09-50 (1).png" alt=""><figcaption><p>Versión Remix de The Force</p></figcaption></figure>
 
 ## Script: sintaxis básica de un shader
