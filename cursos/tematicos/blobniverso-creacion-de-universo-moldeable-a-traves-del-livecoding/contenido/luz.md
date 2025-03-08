@@ -4,9 +4,11 @@ description: Agregamos el modelo de phong para poder colorear
 
 # Luz
 
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vQETQ_yU_6-I5AMkmAFFo4IgokWBz69tZRcU4IxSn6DmsGTxmouvRSQu81v7Ke4XyDQmQ6mBGXqNPVM/pub?start=false&loop=false&delayms=3000" %}
+
 <figure><img src="../../../../.gitbook/assets/Screenshot from 2025-03-06 18-59-11.png" alt=""><figcaption></figcaption></figure>
 
-## Script: Modelo de phong
+## Script: Modelo de Phong
 
 ```glsl
 float sdEsfera(vec3 p, vec3 offset, float radio){

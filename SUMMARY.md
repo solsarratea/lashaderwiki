@@ -40,6 +40,7 @@
       * [Intro a GLSL](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/intro-a-glsl.md)
       * [Introducción a mundos 3D](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/introduccion-a-mundos-3d.md)
       * [Cámara y Acción](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/camara-y-accion.md)
+      * [Repaso + usando mouse y audio input](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/repaso-+-usando-mouse-y-audio-input.md)
       * [Luz](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/luz.md)
       * [El Canvas como controller](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/contenido/el-canvas-como-controller.md)
     * [Cositas](cursos/tematicos/blobniverso-creacion-de-universo-moldeable-a-traves-del-livecoding/cositas/README.md)
